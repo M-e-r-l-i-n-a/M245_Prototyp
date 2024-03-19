@@ -1,5 +1,16 @@
 # M245_Prototyp
 
+## Inhaltsverzeichnis
+1. [Problembeschreibung](#problembeschreibung)
+2. [Anforderungen](#anforderungen)
+3. [Art und Vorgehensweise](#art-und-vorgehensweise)
+4. [Resultat](#resultat)
+5. [Testkonzept](#testkonzept)
+6. [Fazit und Reflexion](#fazit-und-reflexion)
+
+## Problembeschreibung
+Es ist ein Problem, wenn man keinen Überblick darüber hat, bis wann welche Lebensmittel haltbar sind, da das zu Lebensmittelverschwendung führt.
+
 ## Anforderungen
 Nr. |	Typ |	Beschreibung
 --- | --- | ---
@@ -11,7 +22,17 @@ Nr. |	Typ |	Beschreibung
 6	|	Qualität	|	Das Programm ist benutzerfreundlich
 7	|	Randbedingungen	|	Das Programm wird von Elena Tafelski geschrieben
 
-## Testfallspezifikation
+## Art und Vorgehensweise
+Ich programmiere einen Funktionsprototyp und gehe dabei nach dem vertikalen Prototyping (Durchstich) vor.
+
+## Resultat
+1. In der Dokumentation oder verlinkt.
+2. Sie können da auch Printscreens, Fotos usw. einsetzen.
+
+## Testkonzept
+### Testumfeld/Testumgebung
+
+### Testfälle
 Nummer | Voraussetzung |	Eingabe |	Erwartete Ausgabe
 --- | --- | --- | ---
 1.1 |	Programm gestartet | Auf dem Button 'Produkt hinzufügen' drücken |	Eingabefelder für den Produktnamen und Ablaufdatum und ein Button 'hinzufügen' erscheinen
@@ -23,3 +44,23 @@ Nummer | Voraussetzung |	Eingabe |	Erwartete Ausgabe
 5.1 |	Programm gestartet, Produkt hinzugefügt |	Auf den Button 'Podukt löschen' drücken |	Das Produkt ist nicht mehr zu sehen
 6.1 | Das Programm ist benutzerfreundlich | - | -
 7.1 | Das Programm wird von Elena Tafelski geschrieben | - | -
+
+### Testprotokoll
+Nummer | Datum | Resultat | Bemerkung | Durchgeführt
+--- | --- | --- | --- | ---
+1.1 | 
+1.2 | 
+2.1 | 
+3.1 | 
+4.1 | 
+4.2 | 
+5.1 | 
+6.1 | 
+7.1 | 
+
+### Testbericht
+
+## Fazit und Reflexion
+
+---
+Elena Tafelski, 19.03.2024
