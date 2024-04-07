@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="style.css" rel="stylesheet" type="text/css" />
-    <title>Document</title>
+    <title>Produkt hinzufügen</title>
     <link rel="icon" href="icon.jpg" />
   </head>
   <body>
@@ -16,6 +16,7 @@
         name="produktname"
         required
       /><br /><br />
+
       <label for="ablaufdatum">Ablaufdatum:</label>
       <input
         type="date"
@@ -23,8 +24,16 @@
         name="ablaufdatum"
         required
       /><br /><br />
-      <input type="submit" value="hinzufügen" />
+
+      <label for="kategorie">Kategorie:</label>
+      <select id="kategorie" name="kategorie" required>
+        <option value="Gemüse">Gemüse</option>
+        <option value="Fleisch">Fleisch</option>
+        <option value="Milchprodukte">Milchprodukte</option></select
+      ><br /><br />
+
+      <input type="submit" id="submit" value="hinzufügen" />
     </form>
-    <script src="app.js"></script>
+    <script src="appForm.js"></script>
   </body>
 </html>
