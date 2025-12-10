@@ -72,7 +72,7 @@ Alles funktioniert, der Prototyp kann potentiellen Investoren vorgestellt werden
 ## Fazit und Reflexion
 Ich habe es geschafft, den Prototyp fertig zu stellen. Er läuft einwandfrei und erfüllt seinen Zweck.
 
-Das Programmieren des Prototyps war schwierig, da ich vieles nicht wusste, aber dafür habe ich auch viel gelernt. Ich habe gelernt, wie man Arrays sortiert und den localStorage und sessionStorage kennengelernt. Ich hatte am meisten Probleme damit, das Bearbeiten der Produkte zu implementieren, da ich dafür die ID des Projekts von der einen JavaScript-Datei in die andere bringen musste. Das habe ich dann mit dem sesseionStorage gelöst.
+Das Programmieren des Prototyps war schwierig, da ich vieles nicht wusste, aber dafür habe ich auch viel gelernt. Ich habe gelernt, wie man Arrays sortiert und habe mich mit localStorage und sessionStorage beschäftigt. Ich hatte am meisten Probleme damit, das Bearbeiten der Produkte zu implementieren, da ich dafür die ID des Projekts von der einen JavaScript-Datei in die andere bringen musste. Das habe ich dann mit dem sesseionStorage gelöst.
 
 ---
 Elena Tafelski, 07.04.2024
