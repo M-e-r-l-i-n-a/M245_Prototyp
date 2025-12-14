@@ -28,7 +28,10 @@ Nr. |	Typ |	Beschreibung
 Ich programmiere einen Funktionsprototyp und gehe dabei nach dem vertikalen Prototyping (Durchstich) vor.
 
 ## Resultat
-Der fertige Prototyp befindet sich in diesem Repository.
+Der Quellcode des Prototyps besteht aus HTML-, CSS- und JavaScript-Dateien und ist in diesem Repository abgelegt.
+Der vollständig implementierte und lauffähige Prototyp ist unter der folgenden URL verfügbar:
+
+https://food-save.netlify.app
 
 ## Testkonzept
 ### Testumfeld/Testumgebung
